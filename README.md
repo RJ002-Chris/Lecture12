@@ -11,3 +11,4 @@ Sample merge conflict list:
 1. INFO 201
 2. CSE 142
 3. PSYCH 210
+4. Tomatoes with cheese
