@@ -4,8 +4,11 @@
 2. Both people try to push up to GitHub
 3. Try this multiple times and see what happens - get comfortable with merge conflicts!
 
+
+My name is Ryu and I'm here to say, that I like GitHub in a major way!
+
 Sample merge conflict list:
 1. INFO 201
 2. CSE 142
 3. PSYCH 210
-4. Winter classes?
+4. Potatoes with cheese
